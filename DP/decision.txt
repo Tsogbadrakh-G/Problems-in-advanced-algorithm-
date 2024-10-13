@@ -1,0 +1,4 @@
+it is solved by DP approach.
+
+Time complexity: O(n)
+
